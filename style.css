@@ -67,14 +67,13 @@ background-color:gold;
 }
 
 hr {
-margin-right:9%;
-margin-left:25%;
+margin-right:5px;
+margin-left:15%;
 border-top:2px solid gold;
 }
 
 /* Dashed Gold border */
 hr.new {
     border-top: 5px dashed gold;
-    margin-right:100px;
-  }
+    }
 
