@@ -12,7 +12,7 @@ h2, h3 {
 p
 {
 margin-right:9%;
-margin-left:8px;
+margin-left:5px;
 line-height: 35px;
 text-align: justify;
 font-family: 'Times New Roman', Times, serif;
@@ -29,7 +29,7 @@ font-size: 20px;
 
 #nav {
     line-height:30px;
-    width:180px;
+    width:150px;
     float:left;
     padding:5px; 
     margin-left:5px;
@@ -54,7 +54,7 @@ display:block;
 font-weight:bold;
 color:black;
 background-color:#eeeeee;
-width:180px;
+width:150px;
 text-align:center;
 padding:5px; 
 text-decoration:none;
